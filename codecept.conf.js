@@ -5,7 +5,7 @@ exports.config = {
     Puppeteer: {
       url: 'https://yandex.by',
       windowSize: '1366x768',
-      show: true,
+      show: false
     }
   },
   include: {
